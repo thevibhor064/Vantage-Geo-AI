@@ -1,20 +1,65 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Vantage: Geo-AI Location Intelligence System
+A smart Geo-AI assistant that analyzes any place in the world and provides travel, photography, and safety insights — all inside one clean interface with all AI features and best accuracy.
 
-# Run and deploy your AI Studio app
+##  Features
+1. Location Search
+Enter any place name → AI fetches:
+    Coordinates, 
+    Real images, 
+    Basic overview.
 
-This contains everything you need to run your app locally.
+2. Weather & Crowd Intelligence
+For any location, you get:
+    Current weather, 
+    Expected crowd level, 
+    12-month crowd bar graph with percentage.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1auXJmX1-pt5LJQFNrc2ZprALrt0qpXjM
+3. Safety Intelligence
+AI checks recent and historical incidents:
+    Natural disaster risks, 
+    Alerts for floods, landslides, earthquakes, avalanches, 
+    A safety score (1–10) with maximum accuracy.
 
-## Run Locally
+4. Golden Hour & Photography Assistant
+Get perfect photography insights:
+   Golden hour timing, 
+   Light conditions, 
+   Shot ideas, 
+   Phone camera settings (ISO, shutter speed, exposure).
 
-**Prerequisites:**  Node.js
+5. Travel Itinerary Builder
+Generates a full trip plan:
+   Things to do, 
+   Transport suggestions, 
+   Tips and local cautions, 
+   Best season/time to visit, etc.
+   
+6. Hidden Spots Finder
+   AI scans the web to find top 5 hidden gems near the location, including:
+   Realistic AI images, 
+   Brief descriptions.
 
+##  Built Tech
+- Google Gemini 2.5/3.0 
+- Python (for data processing)
+- HTML/CSS (UI)
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+ Future Enhancements
+   Video generation using Veo, 
+   Real-time map overlays, 
+   Live crowd estimation.
+
+##  How to Use
+1. Download the project files.
+2. Import into **Google AI Studio**.
+3. Run the Vantage app.
+4. Enter any location to generate insights.
+
+Feedback
+   Feel free to open issues or suggest improvements.
+
+## 🧑‍💻 Author
+**Vibhor Gujarathi**  
+11th Grade | Maharashtra, India  
+Passionate about travel, photography, AI, and creative tech.
+
